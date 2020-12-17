@@ -2,6 +2,8 @@
 ## 1.Introduction
 Booking system prototype of safe study cabin system. It's a prototype(only support android up to now)
 
+It has been tested on the mobile phone `Hongmi note7 pro`(resolution is 2340*1080). If the resolution（eapecial the aspect ratio） of your mobile is not same with mine, the UI appearance may be different.
+
 ## 2.How to get it
 The built app can be downloaded here: [Release](https://github.com/qqblack/CabinSystemPrototype/releases)
 
@@ -17,6 +19,8 @@ The source can be opened using [App Inventor](https://appinventor.mit.edu/)
   * search by course: only support **IIMP6030** now(can be **'6030','IIMP','IIMP6030'**)
   * search by name: only support **Wu Genhao**  now (can be **WU Genhao,Genhao Wu**)
 * Path Advisor:search example "ROOM 6002"
+
+## 4.App outlook
 
 ### login and booking
 ![login and booking](https://user-images.githubusercontent.com/25791058/102522805-ad9ca980-40d1-11eb-9350-ef3304fa4063.png)
