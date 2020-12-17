@@ -13,6 +13,6 @@ The source can be opened using [App Inventor](https://appinventor.mit.edu/)
 * login page.
   * UserName:**tanhand**
   * password:**123456**
-* Search People.
+* Search People Function.
   * search by course: only support **IIMP6030** now(can be **'6030','IIMP','IIMP6030'**)
   * search by name: only support **Wu Genhao**  now (can be **WU Genhao,Genhao Wu**)
