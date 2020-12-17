@@ -26,7 +26,7 @@ The source can be opened using [App Inventor](https://appinventor.mit.edu/)
 
 ## 4.App outlook
 
-<h3 id="4.1"/>
+<h3 id="4.1"/>  
 ### 4.1 login and booking
 
 ![login and booking](https://user-images.githubusercontent.com/25791058/102522805-ad9ca980-40d1-11eb-9350-ef3304fa4063.png)
