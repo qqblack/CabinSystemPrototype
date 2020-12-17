@@ -18,12 +18,15 @@ The source can be opened using [App Inventor](https://appinventor.mit.edu/)
   * search by name: only support **Wu Genhao**  now (can be **WU Genhao,Genhao Wu**)
 * Path Advisor:search example "ROOM 6002"
 
+### login and booking
 ![login and booking](https://user-images.githubusercontent.com/25791058/102522805-ad9ca980-40d1-11eb-9350-ef3304fa4063.png)
 
-![image](https://user-images.githubusercontent.com/25791058/102521075-70371c80-40cf-11eb-9a15-a3c30de95ce3.png)
+### search people
+search people by course   
+![search people by course](https://user-images.githubusercontent.com/25791058/102522972-e8064680-40d1-11eb-9833-faf6c515d1dd.png)
 
-![image](https://user-images.githubusercontent.com/25791058/102521441-e50a5680-40cf-11eb-87b0-b20e2d21c29b.png)
+search people by name   
+![search people by name](https://user-images.githubusercontent.com/25791058/102521441-e50a5680-40cf-11eb-87b0-b20e2d21c29b.png)
 
-![booking page](https://user-images.githubusercontent.com/25791058/102521835-5f3adb00-40d0-11eb-9853-14a42fe8a520.png)
-
+### useful external url
 ![external url](https://user-images.githubusercontent.com/25791058/102522458-3830d900-40d1-11eb-8302-124650493ff7.png)
