@@ -22,8 +22,6 @@ The source can be opened using [App Inventor](https://appinventor.mit.edu/)
 
 ![image](https://user-images.githubusercontent.com/25791058/102521441-e50a5680-40cf-11eb-87b0-b20e2d21c29b.png)
 
-![image](https://user-images.githubusercontent.com/25791058/102521835-5f3adb00-40d0-11eb-9853-14a42fe8a520.png)
-
-![image](https://user-images.githubusercontent.com/25791058/102521519-feab9e00-40cf-11eb-83fa-e7ed268e2d5e.png)
+![booking page](https://user-images.githubusercontent.com/25791058/102521835-5f3adb00-40d0-11eb-9853-14a42fe8a520.png)
 
 ![external url](https://user-images.githubusercontent.com/25791058/102522458-3830d900-40d1-11eb-8302-124650493ff7.png)
