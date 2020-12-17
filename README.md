@@ -5,9 +5,9 @@ content
 * [2.How to get it](#2)
 * [3.How to use the app](#3)
 * [4 App outlook](#4)
- * [4.1 login and booking](#4.1)
- * [4.2 search people](#4.2)
- * [4.3 useful external url](#4.3)
+   * [4.1 login and booking](#4.1)
+   * [4.2 search people](#4.2)
+   * [4.3 useful external url](#4.3)
 
 <h2 id="1"/>
 
