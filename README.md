@@ -1,6 +1,6 @@
 # Cabin System Prototype
 
-content
+## content
 * [1.Introduction](#1)
 * [2.How to get it](#2)
 * [3.How to use the app](#3)
