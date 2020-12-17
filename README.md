@@ -1,4 +1,8 @@
 # Cabin System Prototype
+
+content
+* [4.1 login and booking](#4.1)
+
 ## 1.Introduction
 Booking system prototype of safe study cabin system. It's a prototype(only support android up to now)
 
@@ -22,15 +26,15 @@ The source can be opened using [App Inventor](https://appinventor.mit.edu/)
 
 ## 4.App outlook
 
-### login and booking
+<h3 id="4.1">4.1 login and booking</h3>
 ![login and booking](https://user-images.githubusercontent.com/25791058/102522805-ad9ca980-40d1-11eb-9350-ef3304fa4063.png)
 
-### search people
+### 4.2 search people
 search people by course   
 ![search people by course](https://user-images.githubusercontent.com/25791058/102522972-e8064680-40d1-11eb-9833-faf6c515d1dd.png)
 
 search people by name   
 ![search people by name](https://user-images.githubusercontent.com/25791058/102521441-e50a5680-40cf-11eb-87b0-b20e2d21c29b.png)
 
-### useful external url
+### 4.3 useful external url
 ![external url](https://user-images.githubusercontent.com/25791058/102522458-3830d900-40d1-11eb-8302-124650493ff7.png)
