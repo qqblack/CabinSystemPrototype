@@ -16,4 +16,4 @@ The source can be opened using [App Inventor](https://appinventor.mit.edu/)
 * Search People Function.
   * search by course: only support **IIMP6030** now(can be **'6030','IIMP','IIMP6030'**)
   * search by name: only support **Wu Genhao**  now (can be **WU Genhao,Genhao Wu**)
-* Path Advisor:search example "ROOM 7001"
+* Path Advisor:search example "ROOM 6002"
