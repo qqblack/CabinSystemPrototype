@@ -17,3 +17,9 @@ The source can be opened using [App Inventor](https://appinventor.mit.edu/)
   * search by course: only support **IIMP6030** now(can be **'6030','IIMP','IIMP6030'**)
   * search by name: only support **Wu Genhao**  now (can be **WU Genhao,Genhao Wu**)
 * Path Advisor:search example "ROOM 6002"
+
+![image](https://user-images.githubusercontent.com/25791058/102521075-70371c80-40cf-11eb-9a15-a3c30de95ce3.png)
+
+![image](https://user-images.githubusercontent.com/25791058/102521441-e50a5680-40cf-11eb-87b0-b20e2d21c29b.png)
+
+![image](https://user-images.githubusercontent.com/25791058/102521519-feab9e00-40cf-11eb-83fa-e7ed268e2d5e.png)
