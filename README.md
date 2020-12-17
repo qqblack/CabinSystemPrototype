@@ -11,7 +11,7 @@ The source can be opened using [App Inventor](https://appinventor.mit.edu/)
 
 ## 3.How to use the app
 * login page.
-  * UserName:**tanhand**
+  * UserName:**tanhand** or **Zhangs**
   * password:**123456**
 * Search People Function.
   * search by course: only support **IIMP6030** now(can be **'6030','IIMP','IIMP6030'**)
